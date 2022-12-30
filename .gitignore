@@ -1,0 +1,11 @@
+.DS_Store
+.sln
+.vcxproj
+.user
+.filters
+/x64/
+/.vs/
+Leilao.sln
+Leilao.vcxproj
+Leilao.vcxproj.filters
+Leilao.vcxproj.user
